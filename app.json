@@ -13,21 +13,24 @@
       "backgroundColor": "#ffffff"
     },
     "updates": {
-      "fallbackToCacheTimeout": 0
+      "fallbackToCacheTimeout": 0,
+      "url": "https://u.expo.dev/f53f6ca8-732f-44b9-b33f-ab64a7f86f95"
     },
     "assetBundlePatterns": [
       "**/*"
     ],
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.andrewexpo123.expodevclientdogfoodapp"
+      "bundleIdentifier": "com.andrewexpo123.expodevclientdogfoodapp",
+      "runtimeVersion": "1.0.0"
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
       },
-      "package": "com.andrewexpo123.expodevclientdogfoodapp"
+      "package": "com.andrewexpo123.expodevclientdogfoodapp",
+      "runtimeVersion": "1.0.0"
     },
     "web": {
       "favicon": "./assets/favicon.png"
